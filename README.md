@@ -1,6 +1,9 @@
 # flutter_flare_ball
 
-A new Flutter application.
+Flutter Flare Basic App
+
+## GIF
+![Flare Ball](flare_ball.gif)
 
 ## Getting Started
 
